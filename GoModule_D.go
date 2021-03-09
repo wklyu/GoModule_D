@@ -4,6 +4,6 @@ import (
 	"github.com/wklyu/GoModule_C"
 )
 
-func BHello() {
+func DHello() {
 	GoModule_C.CHello()
 }
